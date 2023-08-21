@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://iBoss.com/index.html</loc>
+    <lastmod>2023-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://iBoss.com/images/facebook%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://iBoss.com/images/twitter_icon-48.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://iBoss.com/images/paper_airplane_icon-48.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://iBoss.com/images/youtube_icon-48.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
